@@ -6,7 +6,8 @@
 - PUT /api/users/:id - Update a user
 - DELETE /api/users/:id - Delete a user
 
-to run the application
+to run the application:
+
 npm install,
 
 npm run dev
