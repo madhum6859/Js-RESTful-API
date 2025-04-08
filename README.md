@@ -7,5 +7,6 @@
 - DELETE /api/users/:id - Delete a user
 
 to run the application
-npm install
+npm install,
+
 npm run dev
